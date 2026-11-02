@@ -1,5 +1,5 @@
 # Python-Diabetes-EDA
-Exploratory Data Analysis of the Pima Indians Diabetes Dataset using Python for ADEC 7900. By Yiting Pei.
+Exploratory Data Analysis of the Pima Indians Diabetes Dataset using Python for ADEC 7900.
 
 Student Name: Yiting Pei  
 Date: November 2, 2026  
